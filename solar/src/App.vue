@@ -1,6 +1,8 @@
 <template>
   <v-app>
-    <router-view />
+    <v-main>
+      <cardClima/>
+    </v-main>
   </v-app>
 </template>
 
